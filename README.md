@@ -24,3 +24,5 @@ This project had as a goal implemented a model capable of predicting stock price
 ## Files
 Investment-and-Trading-Capstone-Project---Build-a-Stock-Price-Indicator.ipynb : File with all code and analysis made
 
+## Reflection
+The entire project was very interesting to me due to my personal interest in comprehending market movements and becoming a better investor. Understanding the prices, return, volatility and correlation with other assets is fundamental to invest or trade any asset in a more efficient way. The most fascinating step to me was to create the Machine Learn Models and it was also the most difficult part as well due to not being an area that I master. This awakes me to learn more about it. 
